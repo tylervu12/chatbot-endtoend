@@ -1,0 +1,152 @@
+📘 Internal FAQ — RevPilot AI
+Last updated: June 7, 2025
+Audience: Sales, CS, Support, Partnerships, Product
+
+🧩 PRODUCT OVERVIEW
+Q: What does RevPilot AI actually do?
+A: RevPilot AI is an AI-powered sales automation platform. It helps B2B sales teams:
+
+Find and enrich high-quality leads,
+
+Write persona-personalized cold outreach,
+
+Orchestrate multi-channel sequences (email, LinkedIn, phone),
+
+Analyze what works across the team.
+
+Q: What makes us different from other tools like Outreach, Apollo, or Lavender?
+A:
+
+Apollo = Database.
+
+Outreach = Sequencing.
+
+Lavender = Copy assistant.
+
+RevPilot = All-in-one outbound co-pilot with live enrichment, AI personalization, and team analytics.
+
+We sit across data, content, and execution — and we optimize every step.
+
+Q: Do reps still have to write emails manually?
+A: Nope. RevPilot generates cold emails, DMs, and call scripts automatically. Reps can approve, edit, or regenerate with one click. The system learns over time.
+
+Q: Can RevPilot integrate with our CRM?
+A: Yes. Native integrations with:
+
+Salesforce (bi-directional),
+
+HubSpot,
+
+Close.com (beta).
+We also support Zapier + API access for custom flows.
+
+🎯 GO-TO-MARKET STRATEGY
+Q: Who is our ICP?
+A:
+
+SDR managers and RevOps leaders at B2B SaaS companies (Series A–D).
+
+Sales teams of 5–100 reps.
+
+Companies doing outbound prospecting (email, LinkedIn, cold calling).
+
+Using HubSpot or Salesforce.
+
+Q: What pain do we solve?
+A:
+
+Reps waste time researching leads and writing outreach.
+
+Quality is inconsistent across reps.
+
+Leaders don’t know what’s working or why.
+
+RevPilot gives teams consistency, speed, and visibility.
+
+Q: How do we price?
+A:
+
+Per seat, per month (based on feature tier).
+
+Volume discounts for 10+ reps.
+
+Add-ons for custom integrations, voice assistant, or account-based targeting.
+
+Q: What’s our land-and-expand motion?
+A:
+
+Start with one pod/team (5–10 reps).
+
+Prove ROI in 30 days via reply rates, time saved, and meetings booked.
+
+Expand org-wide once pilot shows results.
+
+🧠 TECHNICAL & OBJECTIONS
+Q: Is the AI actually good at personalization?
+A: Yes — we combine company signals (funding, hiring, tech stack) + persona triggers (job change, content engagement). Emails are not just “{{FirstName}} – saw you're hiring” templates. They are contextual and human-sounding.
+
+Q: What if we already use Apollo or Outreach?
+A:
+
+Apollo = database. You can keep it — we enhance it with better enrichment + writing.
+
+Outreach = sequencing. RevPilot’s AI layer sits on top, or you can migrate over time.
+
+We often augment, then replace legacy tools.
+
+Q: Is my team’s data secure?
+A:
+
+SOC2 certified.
+
+End-to-end encryption.
+
+No data shared between customers.
+
+Option to run models in a private cloud (for enterprise).
+
+Q: What if the AI says something wrong or weird?
+A:
+
+Human-in-the-loop: reps always have final say.
+
+Guardrails built in: we don’t allow hallucinations or risky content (e.g. false claims, sensitive data).
+
+Feedback loop improves quality over time.
+
+Q: Can RevPilot help with warm leads or inbound too?
+A: Yes — you can:
+
+Create follow-up sequences for inbound demo requests.
+
+Personalize outreach to free trial signups or content downloads.
+
+Use reply intelligence to flag high-intent messages for faster rep follow-up.
+
+Q: How long to onboard a team?
+A:
+
+Solo rep: 1 hour.
+
+5+ team: 1–3 days with RevPilot CSM.
+
+Full rollout: 7–10 days with CRM + data integrations.
+
+🧪 PILOTS & RESULTS
+Q: What metrics do we usually improve?
+A:
+
++30–50% increase in reply rates.
+
+-60% time spent per rep on writing/research.
+
++15–25% more meetings booked per rep.
+
+Q: Do we have case studies?
+A: Yes. Highlight examples:
+
+SaaSCo (Series B): 6 reps → 15% more opps booked in 30 days.
+
+HealthTech startup: Doubled cold outreach volume with no extra hires.
+
+Agency partner: 3x'd client lead gen efficiency using RevPilot as a white-label tool.

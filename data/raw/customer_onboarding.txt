@@ -1,0 +1,121 @@
+✅ RevPilot AI — New Customer Onboarding SOP
+Document Owner: Customer Success
+Last Updated: June 7, 2025
+Applies To: All new paying customers (non-self-serve)
+
+🎯 Objective
+Ensure every new customer:
+
+Gets value from RevPilot within 7 days
+
+Launches their first AI-assisted outbound campaign within 14 days
+
+Feels confident, supported, and aligned with success metrics
+
+🗂️ Onboarding Stages
+1. Internal Handoff
+Owner: AE → CSM
+Timeline: Within 24 hours of deal closing
+
+Steps:
+
+AE fills out internal handoff doc (Notion)
+
+Include: ICP, team size, rep breakdown, CRM, use case, goals, key stakeholders
+
+Notify #cs-handovers Slack channel
+
+2. Kickoff Call
+Owner: CSM
+Timeline: Within 3 business days
+
+Agenda:
+
+Intro and success roadmap
+
+Overview of RevPilot (light demo)
+
+Review key milestones: campaign launch, KPI goals, user training
+
+Confirm point of contact and Slack/email access
+
+Prep:
+
+Create test workspace
+
+Load in 10–15 enriched leads from demo or trial
+
+Pre-configure CRM or sequencing integrations if possible
+
+3. Workspace Setup
+Owner: Customer (guided by CSM)
+Timeline: Day 3–5
+
+Checklist:
+
+✅ Connect CRM (HubSpot/Salesforce)
+
+✅ Import rep list
+
+✅ Define target persona(s)
+
+✅ Upload existing sequences (optional)
+
+✅ Set up first AI prompt variant for outbound emails
+
+4. AI Campaign Launch
+Owner: CSM + Customer
+Timeline: Day 5–7
+
+Steps:
+
+Generate first AI emails based on enriched lead list
+
+Review/approve messaging
+
+Launch test campaign (25–50 leads)
+
+Monitor replies, categorize outcomes via reply intelligence
+
+5. Usage Review & Optimization
+Owner: CSM
+Timeline: Day 10–14
+
+Steps:
+
+Review usage metrics (logins, messages sent, replies, rep engagement)
+
+Share learnings and optimize sequence/prompt
+
+Flag any blockers or low engagement signals
+
+6. Wrap-Up & Transition to Scaled CS
+Owner: CSM
+Timeline: End of Week 2–3
+
+Steps:
+
+Confirm successful campaign execution
+
+Send “Onboarding Complete” checklist
+
+Invite to customer Slack, community, or learning center
+
+Schedule check-in cadence (monthly or QBR)
+
+🧩 Key Success Metrics (per customer)
+Metric	Goal (14 Days)
+AI campaign launched	✅
+Reply rate on initial campaign	>15% (varies by ICP)
+CRM integration	✅
+Seats activated	≥80% of purchased reps
+Customer satisfaction (CSAT)	>8/10 kickoff NPS
+
+📌 Notes & Best Practices
+Always lead with ROI: time saved, replies booked, and meetings set
+
+Keep prompts simple on day 1 — complexity increases after baseline trust
+
+If customer is stalled, offer to co-build their first sequence live
+
+Use Loom for async follow-ups if reps aren’t engaging

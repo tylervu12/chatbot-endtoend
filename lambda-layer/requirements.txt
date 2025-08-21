@@ -1,0 +1,6 @@
+pydantic
+openai
+pinecone
+python-dotenv
+requests
+urllib3<2.0.0

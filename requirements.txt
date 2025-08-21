@@ -1,0 +1,18 @@
+# Core dependencies
+pydantic
+openai
+pinecone
+langchain
+python-dotenv
+
+# AWS dependencies
+boto3
+botocore
+
+# CDK dependencies (for infrastructure)
+aws-cdk-lib
+constructs
+
+# Utility dependencies
+requests
+numpy

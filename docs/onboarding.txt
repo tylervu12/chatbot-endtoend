@@ -1,0 +1,95 @@
+📘 RevPilot AI – New Hire Onboarding Guide
+Audience: New team members (Sales, CS, Product, Marketing)
+Last Updated: June 7, 2025
+
+👋 Welcome to RevPilot AI
+We’re building the most powerful AI co-pilot for modern B2B sales teams. If you’re here, it means you’re part of that mission — to automate the grunt work, amplify outbound results, and help revenue teams operate at peak performance.
+
+This onboarding guide will walk you through:
+
+Our product and positioning
+
+Key tools we use internally
+
+What to focus on in your first week
+
+Who to go to for what
+
+Let’s go.
+
+🧠 RevPilot 101: What We Do
+RevPilot AI helps B2B sales teams:
+
+Discover and enrich high-quality leads
+
+Write personalized cold outreach using AI
+
+Orchestrate multi-channel campaigns
+
+Analyze what’s working across reps
+
+Our customers use us to generate more pipeline with less manual effort, all while staying aligned and scalable.
+
+🎯 Our Ideal Customer
+B2B SaaS companies, Series A–D
+
+SDR Managers / RevOps leads using Salesforce or HubSpot
+
+Teams doing outbound (email, LinkedIn, phone)
+
+5–100 reps
+
+🛠️ Internal Tools We Use
+Tool	Purpose
+Slack	Daily comms + async updates
+Notion	Docs, SOPs, playbooks
+Linear	Product roadmap + bug tracking
+HubSpot	CRM + customer lifecycle
+Loom	Internal walkthroughs & updates
+Figma	Design and prototype collaboration
+RevPilot (duh)	Eating our own dog food 🐶
+
+📅 Your First Week
+✅ Day 1-2: Get Set Up
+Slack, email, and tools access
+
+Read the Internal FAQ doc (see: RevPilot_Internal_FAQ_Document)
+
+Watch the “RevPilot Product Overview” Loom
+
+Schedule 1:1s with your manager and key teammates
+
+✅ Day 3-4: Understand the Product
+Play around in the app (we’ll give you a test account)
+
+Try creating a lead list, generating a cold email, and running a mini-sequence
+
+Read 1 customer case study to see impact in the real world
+
+✅ Day 5: Shadow and Ask
+Sit in on a live demo or customer call
+
+Ask questions in Slack (#product-questions or #gtm-insights)
+
+End the week with a quick retro: What’s clear? What’s confusing?
+
+📈 How We Measure Success
+We operate on clarity, ownership, and outcomes. You’ll always know:
+
+What you’re responsible for
+
+How it connects to revenue
+
+Where to get help or make a decision
+
+🙋 Who’s Who
+Name	Role	Ask Them About
+Jordan (CEO)	Strategy & Vision	Company direction, GTM priorities
+Nina (CTO)	Product & Engineering	Tech roadmap, feature rollout
+Leo (RevOps)	Sales/CS Enablement	CRM, onboarding, playbooks
+Madi (AE Lead)	Customer Success	Demos, customer feedback
+
+🧭 Final Tip
+We move fast. Don’t wait for permission — ship, ask, iterate. You’re here because we trust your judgment.
+
+Welcome aboard 💥

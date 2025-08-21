@@ -1,0 +1,115 @@
+🎯 RevPilot AI — Demo to Close Playbook
+Document Owner: Sales Enablement
+Last Updated: June 7, 2025
+Applies To: All AEs and SDRs managing live demos and pipeline deals
+
+💡 Purpose
+Drive consistency and conversion by standardizing the flow from demo → deal close. This playbook ensures that every qualified prospect:
+
+Leaves the demo with clear ROI
+
+Moves forward with urgency
+
+Has no confusion around implementation, pricing, or outcomes
+
+🛠️ Required Tools
+HubSpot (CRM + pipeline tracking)
+
+Notion (Demo tracker + call notes)
+
+Slack (#sales-support for deal help)
+
+Loom (custom follow-ups)
+
+RevPilot test workspace (for live personalization demos)
+
+🔁 Process Overview
+Stage	Owner	Timeline
+Demo Prep	AE	24h before demo
+Live Demo Delivery	AE	Scheduled time
+Post-Demo Follow-Up	AE	Within 24h
+Objection Handling	AE	Ongoing
+Pilot / POC Setup	AE + CS	Optional (deal-dependent)
+Contract & Close	AE	< 14 days post-demo
+
+1️⃣ Demo Prep Checklist
+Before the call:
+
+✅ Research the company (firmographics, funding, hiring, tech stack)
+
+✅ Look up the attendee (persona, recent posts, LinkedIn signals)
+
+✅ Pre-load 3–5 leads into RevPilot to showcase live AI writing
+
+✅ Personalize demo deck (ICP use case, relevant case study)
+
+2️⃣ Live Demo Flow (30–40 min)
+Segment	Time	Notes
+Intro & Agenda	3–5 min	Establish goals of the call
+Discovery Questions	5–7 min	Current tools, team size, challenges
+Product Walkthrough	15–20 min	Focus on real use case, not feature tour
+ROI Proof Points	5 min	Use data: reply rates, time saved
+Pricing & Next Steps	5 min	Anchor toward pilot or contract discussion
+
+Pro Tip: Always show AI in action during the demo. Create or regenerate a cold email live — it builds trust.
+
+3️⃣ Post-Demo Follow-Up
+Send within 24 hours:
+
+Personalized Loom recap (ideal) or email summary
+
+Include:
+
+Key problems discussed
+
+What we showed + outcomes
+
+Pilot or contract options
+
+Attached case study and pricing PDF
+
+Next call booking link
+
+4️⃣ Common Objections & Rebuttals
+Objection	Suggested Rebuttal
+“We already use Apollo/Outreach”	We plug in or augment those tools — not replace on Day 1. Start by testing AI performance on a rep or pod.
+“Is the AI reliable?”	It’s trained on thousands of reps and continuously fine-tuned. You always have human control before sending.
+“We’re too small right now”	We help lean teams scale without adding headcount. Book 2–3x more meetings with the same team.
+“We don’t do outbound yet”	Many customers start outbound for the first time with RevPilot because it’s guided, efficient, and pre-built.
+
+5️⃣ Optional: POC / Pilot Structure
+Component	Details
+Length	14–21 days
+Scope	1 ICP, 1–2 reps, 50–100 contacts
+Success Criteria	Reply rate >15%, 2+ meetings booked, CRM integrated
+Resources Provided	Leads, templates, AI walkthrough, rep training
+
+6️⃣ Closing Flow
+Ideal Close Flow:
+
+Confirm buyer is aligned on pricing, outcomes, and team rollout
+
+Share contract via HubSpot + DocuSign
+
+Loop in CS with Notion handoff doc
+
+Trigger onboarding via Slack → #cs-handovers
+
+Mark “Closed Won” in HubSpot
+
+Red Flags to Watch:
+
+"Send me info" without scheduling a follow-up
+
+Long delays between meetings
+
+No exec sponsor or unclear budget
+
+📈 Deal Hygiene & Best Practices
+Update HubSpot after every meeting
+
+Always log objections + deal blockers in the notes
+
+Use Notion deal tracker to flag “at-risk” demos
+
+CC Sales Engineering (if needed) for custom integrations or security questions

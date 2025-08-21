@@ -1,0 +1,5 @@
+pydantic
+openai
+pinecone
+python-dotenv
+boto3
