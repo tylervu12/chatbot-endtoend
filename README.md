@@ -48,7 +48,7 @@ By following this guide, you'll create:
 
 1. **Download this repository** to your computer:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/tylervu12/chatbot-endtoend
    cd chatbot-endtoend
    ```
 
